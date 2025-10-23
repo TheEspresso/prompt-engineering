@@ -89,11 +89,11 @@ plt.show()
 
 大语言模型中的涌现现象指**简单Prompt触发模型展现出训练数据中不显式存在的复杂能力**。这种现象可以通过高维空间中的**吸引子动力学**来解释。
 
-考虑模型的状态空间$S \in \mathbb{R}^d$（d为参数数量，通常$d > 10^{11}$），Prompt $p$ 的作用是定义了一个动力系统：
+考虑模型的状态空间 $S \in \mathbb{R}^d$（d为参数数量，通常 $d > 10^{11}$），Prompt $p$ 的作用是定义了一个动力系统：
 
 $$\frac{ds}{dt} = F(s, p)$$
 
-其中$F$是模型的前向传播函数。优质Prompt将系统引导至**高价值吸引子盆地**，从而涌现出超越平均水平的性能。
+其中 $F$是模型的前向传播函数。优质Prompt将系统引导至**高价值吸引子盆地**，从而涌现出超越平均水平的性能。
 
 ```python
 # 简化版的吸引子盆地可视化
@@ -134,7 +134,7 @@ plt.show()
 
 $$P(answer|R_{CoT}) = \int_{path} P(answer|path)P(path|R) dpath$$
 
-其中$path$代表推理步骤序列。CoT通过显式要求中间步骤，大幅降低了**路径搜索的熵**。
+其中 $path$代表推理步骤序列。CoT通过显式要求中间步骤，大幅降低了**路径搜索的熵**。
 
 ### 2.3 少样本学习的涌现阈值
 
@@ -246,7 +246,7 @@ print(distances)
 $$Prompt_{n+1} = F(Prompt_n, Emergence_n)$$
 $$Emergence_{n+1} = G(Prompt_{n+1}, ModelCapacity)$$
 
-其中$F$是Prompt优化函数，$G$是涌现能力生成函数。
+其中 $F$是Prompt优化函数， $G$是涌现能力生成函数。
 
 ```python
 # 熵减-涌现循环的动力学模拟
@@ -295,7 +295,7 @@ cycle_results = entropy_emergence_cycle("简单问题")
 
 $$|Prompt⟩ = \sum_i c_i |Prompt_i⟩$$
 
-其中$c_i$是复数概率幅，$|Prompt_i⟩$代表不同的Prompt基底。测量（模型执行）会导致波函数坍缩到特定Prompt状态。
+其中 $c_i$是复数概率幅， $|Prompt_i⟩$代表不同的Prompt基底。测量（模型执行）会导致波函数坍缩到特定Prompt状态。
 
 ```python
 # 量子化Prompt的概念实现
@@ -331,7 +331,7 @@ print(f"坍缩结果: {measured_prompt}")
 全息熵减的数学表述：
 $$\Delta S_{total} = \int_V \Delta s(\vec{x}) dV > \sum \Delta s_i$$
 
-其中$\Delta s(\vec{x})$是熵减密度分布。优质Prompt能够在整个问题空间产生协同熵减效应。
+其中 $\Delta s(\vec{x})$是熵减密度分布。优质Prompt能够在整个问题空间产生协同熵减效应。
 
 ## 6. 结论：Prompt工程作为信息文明的基础设施
 
