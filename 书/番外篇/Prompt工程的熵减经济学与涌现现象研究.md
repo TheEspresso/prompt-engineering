@@ -130,7 +130,7 @@ plt.show()
 
 思维链提示"Let's think step by step"之所以能显著提升推理能力，是因为它激活了模型中的**多步推理路径积分**机制。
 
-设$R$为推理任务，标准Prompt直接计算$P(answer|R)$，而CoT Prompt计算路径积分：
+设 $R$为推理任务，标准Prompt直接计算 $P(answer|R)$，而CoT Prompt计算路径积分：
 
 $$P(answer|R_{CoT}) = \int_{path} P(answer|path)P(path|R) dpath$$
 
